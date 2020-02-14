@@ -72,8 +72,6 @@ class VendingMachine
 
     change_money = money_zero
     while change_amount > 0 do
-      puts "change_amount #{change_amount} #{@machine_money}"
-
       @machine_money.keys.each do |key|
         while @machine_money[key] > 0 && change_amount >= key.to_s.to_i
           change_amount -= key.to_s.to_i
