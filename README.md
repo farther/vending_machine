@@ -1,5 +1,5 @@
 # vending_machine
-test task console mode
+Test task for console mode 
 
 
 task:
