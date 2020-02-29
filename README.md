@@ -11,3 +11,4 @@ run `ruby run_vending_machine.rb`
 
 new text for commit 1
 new text for commit 2
+new text for commit 3
