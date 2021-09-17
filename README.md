@@ -8,6 +8,3 @@ Design a vending machine in code. The vending machine, once a product is selecte
 
 
 run `ruby run_vending_machine.rb`
-
-
-
